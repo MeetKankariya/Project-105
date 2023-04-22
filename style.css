@@ -1,0 +1,25 @@
+body{
+    background-color: pink;
+    color: white;
+}
+
+.heading{
+    width:80%;
+    font-size: 22px;
+}
+
+.ab{
+    color:brown;
+}
+
+.ak{
+    color:orange;
+}
+
+#camera{
+    border-color:violet;
+    border-width: 7px;
+    border-style: dashed;
+    width:350px;
+    height:350px;
+}
